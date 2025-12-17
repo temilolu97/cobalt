@@ -1,5 +1,5 @@
 import { useEffect, useState, useRef } from 'react';
-import heroImage from '../assets/heroImage.png';
+// import heroImage from '../assets/heroImage.png';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { products } from '../data/products'
 
@@ -66,7 +66,7 @@ const Home = () => {
                     {/* Text Content */}
                     <div className="flex flex-col gap-6">
                         <p className="text-sm uppercase tracking-[0.25em] text-slate-500">
-                            Cobalt Electronics
+                            CobaltStar Electronics
                         </p>
                         <h1 className="text-4xl md:text-5xl lg:text-6xl font-semibold leading-tight text-slate-900">
                             Minimal, powerful tech for everyday life.

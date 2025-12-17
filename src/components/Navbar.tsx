@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import logo from '../assets/kazzin.png';
+// import logo from '../assets/kazzin.png';
 import { Bars3Icon, XMarkIcon, ShoppingBagIcon } from '@heroicons/react/24/outline';
 import { useCart } from '../contexts/CartContext';
 
@@ -31,7 +31,7 @@ export default function Navbar() {
       <nav className="px-4 py-3 border-b">
         <div className="flex items-center justify-between">
           <Link to="/" onClick={handleHomeClick}>
-            <h1 className='text-lg font-bold'>COBALT</h1>
+            <h1 className='text-lg font-bold'>COBALTSTAR</h1>
           </Link>
 
           {/* Desktop Navigation */}
