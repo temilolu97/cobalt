@@ -112,7 +112,7 @@ export default function Footer() {
         <div>
           <h3 className="text-xl font-semibold mb-3">Contact</h3>
           <p className="text-sm leading-relaxed"><strong>Phone No:</strong> 08066954411</p>
-          <p className="text-sm leading-relaxed"><strong>Email:</strong> adenugakao2018@gmail.com</p>
+          <p className="text-sm leading-relaxed"><strong>Email:</strong>info@cobaltstardigital.com</p>
           <p className="text-sm leading-relaxed"><strong>Address:</strong> 8, Rasheed Alaba Williams Street, Lekki Phase 1, Lagos State, Nigeria</p>
 
         </div>
